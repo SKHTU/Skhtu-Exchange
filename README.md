@@ -1,4 +1,5 @@
 <img src="https://github.com/SKHTU/Skhtu-Exchange/blob/main/skhtu.png" alt="SKHTU LOGO">
+
 # SKHTU Exchange Review and Platform Research
 
 This repository provides an independent overview and analysis of the **SKHTU Exchange** digital asset trading platform.
